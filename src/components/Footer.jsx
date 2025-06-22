@@ -55,9 +55,9 @@ export default function Footer() {
           >
             <h3 className="text-lg font-semibold mb-4">{language === "ar" ? "تواصل معنا" : "Contact Info"}</h3>
             <div className="space-y-2 text-gray-400">
-              <p>📍 Kingdom of Saudi Arabia</p>
-              <p>📞 +966 XX XXX XXXX</p>
-              <p>✉️ info@alamarwindows.com</p>
+              <p>📍 JQH8+523, Al Imam Ali Ibn Abi Taleb, Al Faisaliyyah, Riyadh 12882, Saudi Arabia</p>
+              <p>📞 +966-505274296</p>
+              <p>✉️ alamarwindowz.est@gmail.com</p>
             </div>
           </motion.div>
         </div>
